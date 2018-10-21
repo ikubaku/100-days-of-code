@@ -9,3 +9,13 @@
 **Link(s) to work**
 1. [Today's commit](https://github.com/ikubaku/SeaLion/commit/ca6f564197dec0e0971cb4522166f86066bc80ab)
 2. [The Kotlin Programming Language](https://kotlinlang.org)
+
+### Day 2: October 21st, Sunday
+
+**Today's Progress**: I imported my graphics driver to mbed platform improved in another project. Plus, I've added new API to draw rectangles.
+
+**Thoughts** Microcontroller projects are a bit tricky when hardware-related problems are involved. I spent about an hour to realize i was using a wrong I/O port, RIP.
+
+**Link(s) to work**
+1. [Today's commit](https://os.mbed.com/users/ADay/code/SSD1353Test2/)
+2. [The another project](https://github.com/ikubaku/esp32-audiostation)
