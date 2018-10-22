@@ -19,3 +19,12 @@
 **Link(s) to work**
 1. [Today's commit](https://os.mbed.com/users/ADay/code/SSD1353Test2/)
 2. [The another project](https://github.com/ikubaku/esp32-audiostation)
+
+### Day 3: October 22nd, Monday
+
+**Today's Progress**: I've implemented tile-based graphics code based on yesterday's coding.
+
+**Thoughts** Tile-based graphics does not require so much RAM so it can be used in small micro controllers. I'm going to create tile set for this code and implement sequential tile setting API later.
+
+**Link(s) to work**
+1. [Today's commit](https://os.mbed.com/users/ADay/code/SSD1353TileGraphics/)
