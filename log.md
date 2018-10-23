@@ -28,3 +28,12 @@
 
 **Link(s) to work**
 1. [Today's commit](https://os.mbed.com/users/ADay/code/SSD1353TileGraphics/)
+
+### Day 4: October 23rd, Tuesday
+
+**Today's Progress**: I've made the tile graphics code more suitable for text drawing. The tile size is now 6x8 pixels. I've wrote the Text blitting API as well.
+
+**Thoughts** It was really nice to be able to make the ADC value show in the display. I will work on to load extra tileset from external storage.
+
+**Link(s) to work**
+1. [Today's commit](https://os.mbed.com/users/ADay/code/SSD1353TileGraphics/)
