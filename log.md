@@ -37,3 +37,13 @@
 
 **Link(s) to work**
 1. [Today's commit](https://os.mbed.com/users/ADay/code/SSD1353TileGraphics/)
+
+### Day 5: October 24th, Wednesday
+
+**Today's Progress**: Start writing smart clock + calendar application. I've started to get accustomed to go-sdl2 wrapper.
+
+**Thoughts** It was a while ago whien I wrote my last Go-lang program and I struggled a little. I'm going to make an old PC into desktop(?) calender with it.
+
+**Link(s) to work**
+1. [Today's commit](https://github.com/ikubaku/gove/commit/fab8d627075a37bca3635744931283685150825a)
+2. [go-sdl2](https://github.com/veandco/go-sdl2)
