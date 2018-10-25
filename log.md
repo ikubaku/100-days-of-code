@@ -47,3 +47,12 @@
 **Link(s) to work**
 1. [Today's commit](https://github.com/ikubaku/gove/commit/fab8d627075a37bca3635744931283685150825a)
 2. [go-sdl2](https://github.com/veandco/go-sdl2)
+
+### Day 6: October 25th, Thursday
+
+**Today's Progress**: Add the error handling process & the TTF renderer in yesterday's project.
+
+**Thoughts** It was a little bit hard to implement the error handling because I had to release allocated resources at every single point the error occurs. I don't have a good idea to handle it well.
+
+**Link(s) to work**
+1. [Today's commit](https://github.com/ikubaku/gove/commit/b28386b41dffe0f0015fabf3285e66cec9444801)
