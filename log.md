@@ -56,3 +56,12 @@
 
 **Link(s) to work**
 1. [Today's commit](https://github.com/ikubaku/gove/commit/b28386b41dffe0f0015fabf3285e66cec9444801)
+
+### Day 7: October 26th, Friday
+
+**Today's Progress**: I've learned some basics to deal with Analog Devices' Blackfin Processor. Plus, I did some easy exmeriments and created the rough block diagram of the voice changing effector.
+
+**Thoughts** I have no experiments on signal processing so it will be a little bit challenging(esp. the pitch shifter).
+
+**Link(s) to work**
+1. [The Block Diagram](https://gyazo.com/943961d535850600c9834134c422c651)
